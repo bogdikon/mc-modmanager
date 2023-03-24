@@ -1,0 +1,9 @@
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\bin\Release\Minecraft Mod Manager GUI.exe.config
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\bin\Release\Minecraft Mod Manager GUI.exe
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\bin\Release\Minecraft Mod Manager GUI.pdb
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft_Mod_Manager_GUI.Form1.resources
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft_Mod_Manager_GUI.Properties.Resources.resources
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft Mod Manager GUI.csproj.GenerateResource.Cache
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft Mod Manager GUI.exe
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft Mod Manager GUI.pdb
+F:\projects\mcModManager\GUI_WFORMS\Minecraft Mod Manager GUI\Minecraft Mod Manager GUI\obj\Release\Minecraft Mod Manager GUI.csprojResolveAssemblyReference.cache
